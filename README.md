@@ -15,4 +15,6 @@ Demo:
 
 https://10tage.neocities.org
 
+![Messier45 Telescope Simulation Screenshot](https://github.com/10tage/Messier45/blob/main/pleiades_mono_1772228267366.png)
+
 ---
