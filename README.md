@@ -18,3 +18,7 @@ https://10tage.neocities.org
 ![Messier45 Telescope Simulation Screenshot](https://github.com/10tage/Messier45/blob/main/pleiades_mono_1772228267366.png)
 
 ---
+
+![Plejaden Telescope Simulation Screenshot Hubble](https://github.com/10tage/Messier45/blob/main/pleiades_hubble_1772309910735.png)
+
+---
