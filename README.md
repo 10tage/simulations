@@ -5,7 +5,7 @@ Hier entsteht eine Überblicks-Seite verschiedener Simulationen, die ich in der 
 
 Messier45
 
-Teleskop Simulation mit Blick auf die Plejaden durch Hubble und James-Webb. Verscheiedene Lichteffekte und Filter.
+Teleskop Simulation mit Blick auf die Plejaden durch Hubble und James-Webb. Verschiedene Lichteffekte und Filter.
 Mit Screenshot-Funktion.
 
 Repo:
