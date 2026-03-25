@@ -7,8 +7,8 @@ To the moon
 
 Ambidextrous Rocket Launch Game
 
-Raketen-Game mit nur einem Button in 3 Schwierigkeitsgraden. Hat einen Panel-Seiten-Switch-Button, Englisch/Deutsch, 
-Settings Panel. Standalone HTML mit Vanilla JS und TailwindCC. Kleine Physics-Engine sorgt für Schub und Schwerkraft. 
+Simples Raketen-Game mit nur einem Button in 3 Schwierigkeitsgraden. Hat einen Panel-Seiten-Switch-Button, Englisch/Deutsch, 
+Settings Panel. Standalone HTML mit Vanilla JS und TailwindCC. Eine kleine Physics-Engine sorgt für Schub und Schwerkraft. 
 
 Repo:
 
